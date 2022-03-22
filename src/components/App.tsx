@@ -89,7 +89,7 @@ const App = () => {
                 </div>
                 {searchUserFriends.length>0?
                 <div>
-                    <span>Friends:</span>
+                    <span className="span">Friends:</span>
                 </div>:<></>
                 }
                 <div className="wrapper">
