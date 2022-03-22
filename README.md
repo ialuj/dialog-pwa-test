@@ -9,7 +9,7 @@
 # b. There's a GraphQL API
 # c. There's a React App made with react-bootstrap
 
-# 1. Clone the Project "git clone --branch master "
+# 1. Clone the Project "git clone --branch master https://github.com/ialuj/dialog-pwa-test.git"
 # 2. Enter the terminal from the root dir of the project
 # 3. Type "npm install" so that you can install all the necessary dependencies
 # 4. Start the Json Server Database using "npm run json:server", you check this out on package.json file
